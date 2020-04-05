@@ -18,6 +18,10 @@ body{
     border-radius: 30%;
 }
 
+a {
+    text-decoration: none;
+}
+
 h3{
     color: #333;
     text-decoration: underline;
